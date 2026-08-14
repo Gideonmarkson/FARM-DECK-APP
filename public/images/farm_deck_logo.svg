@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 100" fill="none" className="h-full w-auto">
+  <!-- 4-Petal Yellow Flower Emblem -->
+  <g transform="translate(10, 10)">
+    <!-- Top-Left Petal -->
+    <path d="M 40 40 C 25 20, 10 5, 0 10 C -5 20, 10 35, 40 40 Z" fill="#FACC15"/>
+    <!-- Top-Right Petal -->
+    <path d="M 40 40 C 60 25, 75 10, 70 0 C 60 -5, 45 10, 40 40 Z" fill="#FACC15"/>
+    <!-- Bottom-Left Petal -->
+    <path d="M 40 40 C 20 55, 5 70, 0 60 C -5 50, 10 35, 40 40 Z" fill="#FACC15"/>
+    <!-- Bottom-Right Petal -->
+    <path d="M 40 40 C 55 60, 70 75, 60 80 C 50 85, 35 70, 40 40 Z" fill="#FACC15"/>
+  </g>
+
+  <!-- Farm Deck Serif Text -->
+  <text x="110" y="66" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="bold" fill="#2E7D32" letter-spacing="-0.5">
+    Farm Deck
+  </text>
+</svg>
