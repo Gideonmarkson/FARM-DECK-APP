@@ -1,0 +1,42 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+    background-color: #f4f9f4; /* Light Agricultural Green Tint - Never Black! */
+    color: #0f291e;
+  }
+}
+
+.font-heading {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #f4f9f4;
+}
+::-webkit-scrollbar-thumb {
+  background: #a7f3d0;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #15803d;
+}
+
+/* Professional Rounded Agricultural Card */
+.professional-card {
+  background: #ffffff;
+  border: 1px solid #dcfce7;
+  border-radius: 1.25rem;
+  box-shadow: 0 2px 8px rgba(21, 128, 61, 0.05);
+  transition: all 0.2s ease-in-out;
+}
+.professional-card:hover {
+  border-color: #15803d;
+  box-shadow: 0 6px 16px rgba(21, 128, 61, 0.1);
+}
