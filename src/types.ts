@@ -252,7 +252,7 @@ export interface DispatchJob {
   orderId: string;
   riderName: string;
   riderPhone: string;
-  vehicleType: 'Kwik Motorcycle' | 'Gokada Box Bike' | 'Max.ng Tricycle' | 'Farm Deck Van';
+  vehicleType: 'Kwik Motorcycle' | 'Gokada Box Bike' | 'Max.ng Tricycle' | 'Farmdeck Hub Van';
   pickupLocation: string;
   deliveryLocation: string;
   pickupLGA: LagosLGA;

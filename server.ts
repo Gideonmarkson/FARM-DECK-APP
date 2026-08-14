@@ -181,7 +181,7 @@ app.post('/api/ai/calculate-ingredients', async (req: Request, res: Response) =>
   }
 
   try {
-    const prompt = `You are Farm Deck's AI Nigerian Culinary & Produce Expert.
+    const prompt = `You are Farmdeck Hub's AI Nigerian Culinary & Produce Expert.
 The user wants to prepare "${dishName}" for ${portion} people in Lagos, Nigeria.
 
 Return a strict JSON object with:
@@ -249,5 +249,5 @@ function generateLocalFallbackRecipe(dishName: string, servings: number) {
 
 const PORT = process.env.PORT || 3001;
 app.listen(PORT, () => {
-  console.log(`Farm Deck Backend API running on http://localhost:${PORT}`);
+  console.log(`Farmdeck Hub Backend API running on http://localhost:${PORT}`);
 });

@@ -202,7 +202,7 @@ export const MarketplaceApp: React.FC = () => {
       stockQty: 10,
       freshness: 'GRADE_A_TODAY',
       imageUrl: '/images/roma_tomatoes.jpg',
-      description: 'Accepted via Direct In-App Chat negotiation on Farm Deck.',
+      description: 'Accepted via Direct In-App Chat negotiation on Farmdeck Hub.',
       isAvailable: true
     };
 

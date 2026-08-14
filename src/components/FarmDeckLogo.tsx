@@ -63,7 +63,7 @@ export const FarmDeckLogo: React.FC<FarmDeckLogoProps> = ({
           className={`font-serif-title font-bold text-[#2e7d32] tracking-tight leading-none ${textSizes[size]}`}
           style={{ fontFamily: "Georgia, 'Times New Roman', serif" }}
         >
-          Farm Deck
+          Farmdeck Hub
         </span>
       )}
     </div>

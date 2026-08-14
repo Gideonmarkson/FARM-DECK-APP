@@ -16,7 +16,7 @@ export const PRD_SECTIONS: PRDSection[] = [
     id: 'sec-1-2',
     title: '1.2 Proposed Solution',
     badge: 'Core Value Prop',
-    content: `Farm Deck is a digital two-sided marketplace connecting verified local farmers and market vendors across all parts of Lagos State directly with urban households and consumer buyers. Unlike generic food delivery platforms focused on prepared restaurant meals, Farm Deck specializes exclusively in raw farm produce and bulk meal ingredients (e.g., tubers, fresh tomatoes, peppers, plantains, grains, vegetables, and palm oil). Farm Deck streamlines produce discovery, price comparison, order fulfillment, payment processing, and last-mile logistics via third-party logistics (3PL) bike and van partners.`
+    content: `Farmdeck Hub is a digital two-sided marketplace connecting verified local farmers and market vendors across all parts of Lagos State directly with urban households and consumer buyers. Unlike generic food delivery platforms focused on prepared restaurant meals, Farmdeck Hub specializes exclusively in raw farm produce and bulk meal ingredients (e.g., tubers, fresh tomatoes, peppers, plantains, grains, vegetables, and palm oil). Farmdeck Hub streamlines produce discovery, price comparison, order fulfillment, payment processing, and last-mile logistics via third-party logistics (3PL) bike and van partners.`
   },
   {
     id: 'sec-1-3',

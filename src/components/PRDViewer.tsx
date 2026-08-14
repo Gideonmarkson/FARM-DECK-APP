@@ -29,7 +29,7 @@ export const PRDViewer: React.FC = () => {
           <span className="bg-emerald-100 text-[#2e7d32] text-[10px] px-3 py-1 rounded-full font-bold uppercase border border-emerald-200">
             Official Specification v1.0
           </span>
-          <h1 className="font-heading text-xl font-extrabold text-stone-900 mt-2">Farm Deck Product Requirements Document (PRD)</h1>
+          <h1 className="font-heading text-xl font-extrabold text-stone-900 mt-2">Farmdeck Hub Product Requirements Document (PRD)</h1>
           <p className="text-stone-500 text-xs mt-0.5 max-w-3xl font-medium">
             Detailed technical specification detailing problem statements, user personas, Gherkin acceptance criteria, database schemas, and system architecture.
           </p>
