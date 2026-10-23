@@ -303,9 +303,7 @@ export const MarketplaceApp: React.FC = () => {
         <div className="max-w-7xl mx-auto px-4 flex flex-col items-center space-y-2">
           <FarmDeckLogo size="sm" />
           <p>Digital Agriculture Marketplace • Connecting Farmers & Vendors Across All Parts of Lagos State</p>
-          <p className="text-[11px] text-stone-400">
-            Powered by React 19, TypeScript, Tailwind CSS & Gemini 2.5 AI • 3PL Dispatch (Gokada / Kwik)
-          </p>
+          {/* Background Tech Stack Specification: Powered by React 19, TypeScript, Tailwind CSS & Gemini AI • 3PL Dispatch (Gokada / Kwik) */}
         </div>
       </footer>
 
